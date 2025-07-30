@@ -16,4 +16,4 @@ The variables utilized in this model are not an exhaustive list; More variables 
 ## Sources
 [GridMet Data](https://www.climatologylab.org/gridmet.html): Abatzoglou, J. T. (2013), Development of gridded surface meteorological data for ecological applications and modelling. Int. J. Climatol., 33: 121–131.
 
-<a href=\"https://www.epa.gov/outdoor-air-quality-data\">U.S EPA Air Quality Data</a>: US Environmental Protection Agency. Air Quality System Data Mart available via https://www.epa.gov/outdoor-air-quality-data. Accessed March 01, 2025.
+[US EPA AQ Data](https://www.epa.gov/outdoor-air-quality-data): US Environmental Protection Agency. Air Quality System Data Mart available via https://www.epa.gov/outdoor-air-quality-data. Accessed March 01, 2025.

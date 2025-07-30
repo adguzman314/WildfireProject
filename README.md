@@ -6,5 +6,5 @@ This is the repository for my attempt to use a random forest regression model to
 The following variables were used in the implementation of the random forest regression model:
 
 ## Model Output
-<img src = "RMimages/MLOzonePred(Non-Fire)"/>
+<img src = "RMimages/MLOzonePred(Non-Fire).png"/>
 The red line above signifies perfect prediction by the model.

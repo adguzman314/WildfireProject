@@ -10,6 +10,7 @@ The following variables were used in the implementation of the random forest reg
 ## Model Output
 <img src = "RMimages/MLOzonePred(Non-fire).png" width="75%" />
 The red line above signifies perfect prediction by the model.
+
 ## Notes
 The variables utilized in this model are not an exhaustive list; More variables could be incorporated into the model to potentially increase prediction accuracy.
 ## Sources
